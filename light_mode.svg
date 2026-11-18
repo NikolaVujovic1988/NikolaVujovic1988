@@ -1,67 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'SF Mono',Menlo,monospace" width="1067px" height="492px" font-size="16px">
-<style>
-.text{fill:#24292f} .key{fill:#953800} .value{fill:#0a3069} .dots{fill:#c2cfde} .accent{fill:#1a7f37} .ascii{fill:#24292f}
-</style>
-<rect width="1067px" height="492px" fill="#f6f8fa" rx="15"/>
-<text x="24" y="36" class="ascii" font-size="10px" xml:space="preserve">
-<tspan x="24" y="34">                              {fxzr}</tspan>
-<tspan x="24" y="46">                          (LbMW%@%M*Md0n</tspan>
-<tspan x="24" y="58">                      ]OQM&amp;#@@$$@BB$$$B8hU1</tspan>
-<tspan x="24" y="70">                     c*%$$%*a*aZUL0qkM&amp;%$$*hL</tspan>
-<tspan x="24" y="82">                    u%8&amp;*d0Ycn[_[{_+-[tLZmwM@Q</tspan>
-<tspan x="24" y="94">                    d0x(&lt;I:;;,I!i:.......`:!(bU</tspan>
-<tspan x="24" y="106">                   Xj""",::"^,,"'............;C/</tspan>
-<tspan x="24" y="118">                  [f`:!i!l;::,^`.........'.'`.;f</tspan>
-<tspan x="24" y="130">                  {l,I;I;,"^``'''.........'```'~-</tspan>
-<tspan x="24" y="142">                  ~^,:,,,,,,"^``^^^`........`^`I_</tspan>
-<tspan x="24" y="154">                  i."I![jf/(){-&lt;&gt;+]{juj{?+i;`..^+</tspan>
-<tspan x="24" y="166">                  &gt;;/Ok*W&amp;Mok0f]~-xZoWMkwZLUvj1}]</tspan>
-<tspan x="24" y="178">                 xrzLJLCJOddpZXx{}vw&amp;%&amp;@@8#kwQru),~</tspan>
-<tspan x="24" y="190">                 u([){zwb%$8&amp;oO&lt;..rZq*aohbZLc)!)&lt;]L</tspan>
-<tspan x="24" y="202">                 f|+)/vYJCYufzJ!'.!u-&lt;~&lt;&lt;&lt;l^'.i+&lt;{i</tspan>
-<tspan x="24" y="214">                 ?1?-?[{{]_+)r+,'..^{&lt;,"",::I&lt;!.&lt;{:</tspan>
-<tspan x="24" y="226">                  -;~+&lt;!l&gt;+/t&gt;!l,`^..?t)-~&gt;!!;.`'.</tspan>
-<tspan x="24" y="238">                  +I&gt;li-?}fuftv/((cJ)![jj{]-_!:"^,</tspan>
-<tspan x="24" y="250">                   !i_)(){?[XqbmmqQc|!";]|tjt)+I:</tspan>
-<tspan x="24" y="262">                   i&lt;]1({](XkM8%&amp;hdJf||n/(}]]}-&gt;i</tspan>
-<tspan x="24" y="274">                    ~]{{/LbMkhoobZww0ULkoO[;i_+&gt;</tspan>
-<tspan x="24" y="286">                     ](1jqMhQUYcjt1?+ill[X[-?]1x</tspan>
-<tspan x="24" y="298">                     &lt;/zzwZj1|fuJQz|-:`'!vznvJt%Oi</tspan>
-<tspan x="24" y="310">                       nQao0j]](/(-l"'',-Ukbk/'Zd]&lt;!</tspan>
-<tspan x="24" y="322">                        p#B#C)[?&lt;~+&lt;&lt;&gt;_)0%W0]^^[Y{?&lt;+_~~~</tspan>
-<tspan x="24" y="334">                       |%oUaokwJzJ0C00dM*Qx[II"|u1}--?---?[?&lt;i&gt;</tspan>
-<tspan x="24" y="346">                     jrU&amp;$Orc0wdkkhkbpmCvr/+l:~Xt|1]?--}{[[1{?+++&lt;i&lt;&lt;li</tspan>
-<tspan x="24" y="358">                 )CkdwJL*@$*Luxxnuvccccvut-!liurt|1})}?{11{{))({[{}})+_&gt;</tspan>
-<tspan x="24" y="370">             |cU0#%*Z*b0dW@$BawQCJLCJUYcj]&gt;i~XX(|(|{)[]{)|fr//xct11jx?1_</tspan>
-<tspan x="24" y="382">         ](xLZZd&amp;BMbdWopw*8@$$8*kpwO0CYn1+iltJjrjuf[1}-?|rxXu|tvUu{vU?/-</tspan>
-<tspan x="24" y="394">      &lt;]xUQOLLk8%WMk#*##b*&amp;W%@@$B%WodZY/+&gt;[0Oxt1()_+~?[_{rnzYjtxXUfYp{t?</tspan>
-<tspan x="24" y="406">     [xnU0mOO#%WM&amp;Wk*d#okbaMB$$@B%8&amp;owv1)jnXcmMb0XzYLZCctfxcJn|uYCuU8u/[</tspan>
-<tspan x="24" y="418">   ]uz0QLm0Qa&amp;*oWWhh8W8WW&amp;B$$$$$$@%&amp;#0unXzcLk$$$$$$$$$wXnjruJXfjJ0zcBqj/</tspan>
-<tspan x="24" y="430">  ]Xm0qkZqOd#abh*Mb#$$$$$$$$$$$$$$$WM*&amp;%8%$$$@%8WMW*kwYYcrxuYJxtXmLro8Xx</tspan>
-<tspan x="24" y="442">  XJZpwkwmq#*hkhakqM$@$B%B@@@$$$$B#a&amp;8$$$$@#hkdqwmm0UYvzXxrccYvtv0mrO$Ou</tspan>
-<tspan x="24" y="454"> tLqZbphkq*Makbhbwwo8B%8&amp;8%88BB&amp;o&amp;Mmk*M#ohdqqwm0QLLJvzccYzrcYzzrjLdYz$kv</tspan>
-<tspan x="24" y="466">|CCdbhhahkW*hkkkqqdo#&amp;&amp;&amp;WW8&amp;M*apb@M0Zddq0LCQOZOQCCLCccXcXUcvJCLzfcdZcBWY</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 861 983" width="861" height="983" font-family="ConsolasFallback,Consolas,'SF Mono',Menlo,monospace">
+<rect width="861" height="983" rx="15" fill="#f6f8fa"/>
+<text font-size="9" fill="#24292f" xml:space="preserve">
+<tspan x="24" y="32.8">                                                                   , ,:,</tspan>
+<tspan x="24" y="43.7">                                                             ,;;:1tt1LLfi:::</tspan>
+<tspan x="24" y="54.5">                                                        ,;1tfC0CCC0G0CCGfCCGC1fi,,</tspan>
+<tspan x="24" y="65.3">                                                     ::;LCGGLGGCC0GGGCC0ffGGGGGGGLt;</tspan>
+<tspan x="24" y="76.2">                                               ,i; ,1LGfLLC08008008800000C880GCLLG0C1;,</tspan>
+<tspan x="24" y="87.0">                                               ,LGCL08@LfCL00GG08000G8G08880880008GtG0fi:,</tspan>
+<tspan x="24" y="97.9">                                             :tLLCG0GG@GLLGCCCGCCLCLfLffLCGGCGCGGCfG80GCLf11;</tspan>
+<tspan x="24" y="108.7">                                          .:;C0GG0CG0GGLCfLLffCCLL1iit11tttttLCCCCC0GGGGLfCGCi</tspan>
+<tspan x="24" y="119.5">                                          ,fGCLLLGGGCCLCLfttffti;:,:;::;;;i1tfffLG80880GCfLGGt:</tspan>
+<tspan x="24" y="130.4">                                          :CLLCGCCCGGCLftti1ti:,,,::;;::::,,,,,;ifLCLffffC080LL1</tspan>
+<tspan x="24" y="141.2">                                          1LLCLCGCti;;,::,:::,.,,,::,:,..............::;;11f0GCG;</tspan>
+<tspan x="24" y="152.0">                                         iLLCf1i;,.............,..,,,.......................,tCfC:</tspan>
+<tspan x="24" y="162.9">                                        ,1Cf:,................................................;ttL</tspan>
+<tspan x="24" y="173.7">                                        ift....................................................:tL1</tspan>
+<tspan x="24" y="184.5">                                       :ff......................................................,1f,</tspan>
+<tspan x="24" y="195.4">                                       1t,.....,,,,,.............................................,ii</tspan>
+<tspan x="24" y="206.2">                                      ,1:.....,,,,,,..............................................:i,</tspan>
+<tspan x="24" y="217.0">                                      ;i...........................................................;:</tspan>
+<tspan x="24" y="227.9">                                      ;,...........................................................,:</tspan>
+<tspan x="24" y="238.7">                                      :............................................................,:</tspan>
+<tspan x="24" y="249.6">                                      :..............,..,...........................................:</tspan>
+<tspan x="24" y="260.4">                                      :.........,,,,,,,,,,,,,,,,,,,,,,,,,,,.........................:,</tspan>
+<tspan x="24" y="271.2">                                      ,..........;;;;;;;;::::;::,,,,,:::::;;1tt11;:::::,:,,.........::</tspan>
+<tspan x="24" y="282.1">                                      :....,:i11fLG00G0GCCCff1i;;:,,,:;;1iC0@@@@@@GGLff1i;;:,,......,,</tspan>
+<tspan x="24" y="292.9">                                      :..,;fGG8@@8@@@88800GGCf1;:,....,:i1ftttftt11111ttffLfffft11i;i:</tspan>
+<tspan x="24" y="303.7">                                      ;,;tftttt1t11111111ii1iii;;;;:::;iii1tfLCCCCGCLLLfttt11tt1i;1ii;</tspan>
+<tspan x="24" y="314.6">                                   11t11fftt11111iiiii1ttttttttitt11ii;11tGGG08CG@@@@@80Gfttii;;;,:1i,....</tspan>
+<tspan x="24" y="325.4">                                   11t::;::::;;;;i1fLG8880GGCLf1;,.....:1iLC0@8CC8@@@@GL080CLf11i:,t;..,if:</tspan>
+<tspan x="24" y="336.2">                                   .i1,,,::::,:1LCC088@@@CC08Lf1i......:C;itCCGGCLLfftf11i1111i:,.,t.,;iLGi</tspan>
+<tspan x="24" y="347.1">                                    ;1.,::;;;iLGLt11fCCCLtffttLLi.......CL1,;i;;;i1ii11ii;:,,.....i;.::.,i,</tspan>
+<tspan x="24" y="357.9">                                    tf:.::;;;;;:;1tt1iiiii;;::1t;........t1..,,,,,,.,,,,..........f..;,..,</tspan>
+<tspan x="24" y="368.8">                                    iii,,:::::;;iiii;;;::::::it;:,........11,...................,i...if;..</tspan>
+<tspan x="24" y="379.6">                                    ,:,i:,,,,,:::,,,,,,,,,,:i1:,...........;1:........,,,,,,::::,....;t:..</tspan>
+<tspan x="24" y="390.4">                                     i,.:::::::::::::;:::::;;:,.............:;,...............,......,...</tspan>
+<tspan x="24" y="401.3">                                     :;....,,:::,,.......,;i:,,,.............,;ii;;::,,,,,...............</tspan>
+<tspan x="24" y="412.1">                                     ,;..,,,,,.......,:;ii1:...,,,,...........:iii;;::::::,::,,..........</tspan>
+<tspan x="24" y="422.9">                                      ;..,,,,...,:::;;;;ii1;.:;;:;;;::;itLt;;,::;ii;:,,,,,,,,,..........</tspan>
+<tspan x="24" y="433.8">                                      ,,.,,,.,::;;:::::;i;;1itfLfi;ii;1tLCffi...,:i1i;::::,,:,,,.......</tspan>
+<tspan x="24" y="444.6">                                       :..,.,:::::::::;;::;iiiiii;;iiii;::;:.......,iii;;;;;::::,,,...</tspan>
+<tspan x="24" y="455.4">                                        ,.,,,::;;:;::::,,:;1tfCCCfLLffft1;i;;:.......,:;iiiiiii;,,,..</tspan>
+<tspan x="24" y="466.3">                                        ,,,,,::;:;;::,,,:;tLLLG00G00GGGGft1i;;;;,;;::,:,,;;;:;;:::,.,</tspan>
+<tspan x="24" y="477.1">                                         ,,,::::;;;::,;11tLCGGGGG088GCLLt1;;;:;;;iii1;ii,,,,.,:,,,.,,</tspan>
+<tspan x="24" y="487.9">                                         .,,::::;:::;itffffttffftt1i;,:;i11i;;;;ifLtt1ii;..,..:,.,,,.</tspan>
+<tspan x="24" y="498.8">                                          :,,::;:::ittttLLt1tffLCG0000@@@@@@@80GG0080Gfi:,.,,,,:,,:,</tspan>
+<tspan x="24" y="509.6">                                          ,,:;::;::iffLG88000GCCCLftt1i:,,,,,...,,::tf1;,,.,:,,:,,,.</tspan>
+<tspan x="24" y="520.5">                                           ,::;;::;;tLLGGf1i;;;;::,,,,,.,............:ii,,:,::::,:i1,</tspan>
+<tspan x="24" y="531.3">                                            ,::;;;;;itLt1;;;;;;;;;;iii;ii;:;:,,......;1i;;;i;,:;i;L@f:,</tspan>
+<tspan x="24" y="542.1">                                             ,;;1i11tf1ii:;:;;i;itttfLf11ii;,,.......;i11;iiiiiLt.8@C;:,</tspan>
+<tspan x="24" y="553.0">                                              :itii1fLLf1;;;::;;;iiitf1i;,,........,:;i1t11i1fG1..C@Gi:,.</tspan>
+<tspan x="24" y="563.8">                                                i1i1fGCLfti;::,:,:;:::,,,..........,,:itfttfG0;...i@8i::,..</tspan>
+<tspan x="24" y="574.6">                                                 ;ffLfCGCf1;;,.,::::,,..,........,.,;ifGCLG@L:.....f0;:::,..,,,,</tspan>
+<tspan x="24" y="585.5">                                                  tffLGLCftti;:::,,.,:,,,,,,,,,,::,:1fG0@8f;,......;L:::::,,,,::,,,,,</tspan>
+<tspan x="24" y="596.3">                                                 :LGCC80GLft;;i;:;:,::;;;:::;::;;;1tG@@GLi::,......if:;:::,,,,,:,,,,:::,,,</tspan>
+<tspan x="24" y="607.1">                                                 iC8@iiL88Gftfti1ii;;iiii;;iii;itL0@8Gt;:;;:,......11:::::,:,,,::,:,,,,::;::,,..,</tspan>
+<tspan x="24" y="618.0">                                               ::tLG@G,,;tC8@0LLLt1t1tfffLfLLL08@@8Li;;;;;:,......:fi:;;::,::::,:,,::::,:::;;:,,,,,,,...</tspan>
+<tspan x="24" y="628.8">                                             ;1i;tLG@@L;;::;tfC080880880@@888GCfti;;iii;;;,......,11;;;;;:,::,:,,:,:::::::::::::,,,,:,,,..........</tspan>
+<tspan x="24" y="639.7">                                         :it111;itLC8@@L1i;;::;;iit1111i1iiii;;;iiiiiii;;:,,.....i1i:;;:;;:::,::,:::;:::::::::::::,,,,::,,,,,::,..,,..</tspan>
+<tspan x="24" y="650.5">                                      ;tLCCfit1;ifLCG@@@Ct11ii;;;;;;;;;;iiiiiiiiiiiiii;::,,.....:iii;;;;;:::;:::,:::::;;::::::::::::::::::::,:;:,,,,,.</tspan>
+<tspan x="24" y="661.3">                                  :;1fCCLLf1tL11iffLC0@@@Gft11iiiiiiiiiiiiiiiiiiiiii;;;:,...,,.:t1;;i;:::;::;;:;:,::::::;;:::;;::;;;;:::;;::::;:,,:::.</tspan>
+<tspan x="24" y="672.2">                              ;i1t1tLCCCCLt1CCtf1tfLCGG8@@8Cftt11i11111111111iiiiiii;;:,,.,,,.;f1i::;;;;;;::;::::,:::::::;;;;;;;;iiii;:::;;::;i::,:::.</tspan>
+<tspan x="24" y="683.0">                          :;1ttt11tLGGCCCf1t0Cff11fffCG088@@GLfftt1111111111111iiii;;::,,,,,,:ffi;;;;;;;;;::;::::,,;:;;;;;;ii;;;;;;i1i;;::::;11:::;;:.</tspan>
+<tspan x="24" y="693.8">                     ,:;i111tt11tfLGGGGCLt1L0CfCf1tLLCG00@@@@8GCfLffttt111111111ii;;;:,,,,,,.11;i;;;;;:;;::::;:,::,;::;i;;;i1i;;;;;i111i;::;;tt:::;;:.</tspan>
+<tspan x="24" y="704.7">                 ,,:;;iii1ttttttLCGGGCLLLttL0LfCLt1fLLCCG8@@@@08GLLLLLffftttt111iii;:,,,,,..;fii;;ii;;;i1;::::;:,:,,;:;ii;iii1;;;;;;ii11i;:::ff:::;;:.</tspan>
+<tspan x="24" y="715.5">               ,::;ii1111t1111tLCG0GCLLLLtfCGtLCLfttLLLCGGG088GC88GCLLLLLffftt1ii;;::,,,.,:ii1iii;;iii1i;::::,:;:::,,;;;i;iii1i;;;;;;ii11i;;;fL:::;;:.</tspan>
+<tspan x="24" y="726.3">             ,,:;ii11111t1ii1fCGGCGCCCCCLtf0LtGCCCffLLG0GCCGCG00@@@@8GGCLLLfft11ii;:,,,.,iC@1i:;,:::;i;::,::::::;::,.,;;;;iii11i;;;iiiiiii;;;fG;::;;:.</tspan>
+<tspan x="24" y="737.2">           ,:;;;;111ttttt1itLCGGGCLCCCCCftG0fCCLLCLLLLCLLLLCG80GCGGG00000GGCfffti;::,,,;1;1Lf1i1t;:,...,.,,.,,,,:;;;;:;;;;iiii1i;;;iiii11iii;f@1::;;:,</tspan>
+<tspan x="24" y="748.0">          ::;iiii111ttff11tLGGGCCLCGCCCLtL8f1LLLCLfLttfftL0@@@@@8GCLLCCCGGCCLff1;::,;i11;i1;1;;@@@@@0Lt1iiiitfLCCt11i;;;;i;ii11i;;:;iii11iii;f@Li;;;:,</tspan>
+<tspan x="24" y="758.8">        ,;;;i11ii111tt111tLGGGGLLCCCCCGftCC;1fLLLfLffffC8@@@@@@@@@@@80CffLLLtt1;;;i11i1;;;;;:i8@@@@@@@@@@@@@@@@8G1iiii;;;;;ii1iii;:;;i111iiiit@01;i;:,</tspan>
+<tspan x="24" y="769.7">       :;iii11tti1tttt111fLCGCLLLCCCCCLtfC0080GCLLCCG0@@@@@@@@@@@@@@@@@@G88C@Li;ii::i;;:;;itL@@@@@@@@@@@@@@@@80GLt1iii;;;;iii11iii;;;i1111i;;188tii;;:</tspan>
+<tspan x="24" y="780.5">      :i11111tfft1tttt11fLCLLfffLLCCCLftfC8@@8808880G8@@@@@@@@@@@@@@@@@@@f@CLf111111t11fLG@@@@@@@@@@@@@88@880GGCL111iii;;i;;ii11ii;;;i11tt1i;iG@Cti;;;</tspan>
+<tspan x="24" y="791.4">     :i1ttt11tfLf1tftt1tLCLLLfffLLLCCCffLG8@@800000GG888@@@@@@@@@@@@@@@@@0tLCCC@@@@@@@@@@@@@8@@88880GCCCCGCLLfff1iiiiii;;;iiii11ii;;;ii1tt1i;;L@0t1i;;</tspan>
+<tspan x="24" y="802.2">    :ii1tttttfLLf1tff1tLCLLLLffffLLCCLffC08@@88000GGG80088@@@@@@@@@@@@@8GLC@CG@CG@@@@@@@@@8GGCCCLLLLLfffLfffttt1iiii1ii;;;iiiii1ii;;;;i1tfti;;t88f11;;</tspan>
+<tspan x="24" y="813.0">   ,i1ii1tffttfLf1tfttfLLLLLfffffLLLLftfC00888880GGGG00000000000000000GCffL8ff88@@@@@@@@@0CCLLLfftfftttttttt11i1iiiiiii;;;iiiii1iii;;ii1ttf1;;iG@C11i;</tspan>
+<tspan x="24" y="823.9">   ;itti1tfLfttfLtttttLCCLLLffffLfLfftttLCGGGGGGGCGGGGGGGGGG00G00000GCLCLtfGGCG088880880Cffftftfftttttttttt1iiiiiiiiiiii;;;iiiii1iii;;ii1tft;;;L@0t1i;</tspan>
+<tspan x="24" y="834.7">  :iitft1tffffffCftffLCCLLLLfffffffftttfLCGGGGGGGCCCCGGGGGCGGGGGG0GLLL0@fttfLCCCLLCCCCCfffffffffft1tt1111111iiiiiiiii1iii;iiiiiiiiii;;ii1tff1;;f@@L11;</tspan>
+<tspan x="24" y="845.5">  iii1fLttfLffffCLtffCCCLLLffffffffftfffCLCGGGCCCCCCCGGCCCCCGGGGGLLffL@@tttfffLLCLfffttttffffttttttt11111111iiii1iiiii11i;;ii1iiiiiii;;i1tffti;t8@Ct1;</tspan>
+<tspan x="24" y="856.4"> ;1ii1tLLtfCLfffCLtLLCCCLLfffffLffftffffLLLCGGCCCCCCCCCGGCCCCCLLftffLC@8tttttfffffft111111tttttttt1111111111ii;i1iiiiiiiiiiii111111ii;;;itffti;10@0f1;</tspan>
+<tspan x="24" y="867.2">,11111ttLLtfCLffCLtfLCCLLfffffffffttffffLLLLCCCCCCCCCCCCCCCLLLffffffLG@0tt11ttffftttt1111ii11tttt1t1111111111iiiiiiiiii11iiiii111111ii;;i1fLf1i1C00Lt;</tspan>
 </text>
-<text x="500" y="42" class="text" xml:space="preserve">
-<tspan x="500" y="42"><tspan class="text"></tspan><tspan class="key">nikola@vujovic</tspan><tspan class="dots"> -----------------------------------------</tspan></tspan>
-<tspan x="500" y="62"><tspan class="dots">. </tspan><tspan class="key">OS</tspan><tspan class="text">:</tspan><tspan class="dots"> ...................................... </tspan><tspan class="value">macOS, Linux</tspan></tspan>
-<tspan x="500" y="82"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan><tspan class="text">:</tspan><tspan class="dots"> .................. </tspan><tspan class="value">coding since 2007 (19 years)</tspan></tspan>
-<tspan x="500" y="102"><tspan class="dots">. </tspan><tspan class="key">Host</tspan><tspan class="text">:</tspan><tspan class="dots"> ................ </tspan><tspan class="value">Wuppertal, Germany (from Serbia)</tspan></tspan>
-<tspan x="500" y="122"><tspan class="dots">. </tspan><tspan class="key">Role</tspan><tspan class="text">:</tspan><tspan class="dots"> ................................ </tspan><tspan class="value">Senior Developer</tspan></tspan>
-<tspan x="500" y="142"><tspan class="dots">. </tspan><tspan class="key">Focus</tspan><tspan class="text">:</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">Web Apps, Automation &amp; AI</tspan></tspan>
-<tspan x="500" y="162"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan><tspan class="text">:</tspan><tspan class="dots"> ............................. </tspan><tspan class="value">VS Code, Claude Code</tspan></tspan>
-<tspan x="500" y="202"><tspan class="dots">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="text">:</tspan><tspan class="dots"> ........ </tspan><tspan class="value">TypeScript, Python, SQL</tspan></tspan>
-<tspan x="500" y="222"><tspan class="dots">. </tspan><tspan class="key">Languages.Frameworks</tspan><tspan class="text">:</tspan><tspan class="dots"> ......... </tspan><tspan class="value">React, Next.js, Node.js</tspan></tspan>
-<tspan x="500" y="242"><tspan class="dots">. </tspan><tspan class="key">Languages.Tools</tspan><tspan class="text">:</tspan><tspan class="dots"> ............ </tspan><tspan class="value">PostgreSQL, Supabase, n8n</tspan></tspan>
-<tspan x="500" y="262"><tspan class="dots">. </tspan><tspan class="key">Languages.Real</tspan><tspan class="text">:</tspan><tspan class="dots"> .............. </tspan><tspan class="value">Serbian, German, English</tspan></tspan>
-<tspan x="500" y="302"><tspan class="text">- </tspan><tspan class="text">Contact</tspan><tspan class="dots"> ----------------------------------------------</tspan></tspan>
-<tspan x="500" y="322"><tspan class="dots">. </tspan><tspan class="key">Email</tspan><tspan class="text">:</tspan><tspan class="dots"> ...................... </tspan><tspan class="value">contact@nikola-vujovic.de</tspan></tspan>
-<tspan x="500" y="342"><tspan class="dots">. </tspan><tspan class="key">Website</tspan><tspan class="text">:</tspan><tspan class="dots"> ............................ </tspan><tspan class="value">nikola-vujovic.de</tspan></tspan>
-<tspan x="500" y="362"><tspan class="dots">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="text">:</tspan><tspan class="dots"> .............................. </tspan><tspan class="value">nikola-vujovic</tspan></tspan>
-<tspan x="500" y="402"><tspan class="text">- </tspan><tspan class="text">GitHub Stats</tspan><tspan class="dots"> -----------------------------------------</tspan></tspan>
-<tspan x="500" y="422"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan><tspan class="text">:</tspan><tspan class="dots"> . </tspan><tspan class="value">21 {Contributed: 40}</tspan><tspan class="text"> | </tspan><tspan class="key">Stars</tspan><tspan class="text">:</tspan><tspan class="dots"> ............. </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="500" y="442"><tspan class="dots">. </tspan><tspan class="key">Contributions</tspan><tspan class="text">:</tspan><tspan class="dots"> .... </tspan><tspan class="value">2,903</tspan><tspan class="text"> | </tspan><tspan class="key">Followers</tspan><tspan class="text">:</tspan><tspan class="dots"> ............. </tspan><tspan class="value">3</tspan></tspan>
-<tspan x="500" y="462"><tspan class="dots">. </tspan><tspan class="key">Pull Requests</tspan><tspan class="text">:</tspan><tspan class="dots"> ...... </tspan><tspan class="value">105</tspan><tspan class="text"> | </tspan><tspan class="key">Last year</tspan><tspan class="text">:</tspan><tspan class="dots"> ......... </tspan><tspan class="value">2,367</tspan></tspan>
-</text>
+<line x1="24" x2="837" y1="889.2" y2="889.2" stroke="#d0d7de"/>
+<text x="430.5" y="919.2" font-size="16" text-anchor="middle" fill="#0a3069">TypeScript · Python · SQL · React · Next.js · Node.js</text>
+<text x="430.5" y="945.2" font-size="16" text-anchor="middle" fill="#953800">contact@nikola-vujovic.de</text>
 </svg>
